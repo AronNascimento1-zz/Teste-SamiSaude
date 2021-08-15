@@ -1,0 +1,89 @@
+#button-container {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+  #back-button {
+  
+    padding:2rem;
+    border-radius: 1rem;
+    font-weight: bold;
+    color: black;
+    border: 0.2rem solid black;
+    background: white;
+    cursor: pointer;
+    
+
+    &:hover {
+      box-shadow: 0.2rem 0.2rem 0.5rem #000;
+    }
+
+    &:active {
+      transform: translateY(0.3rem);
+    }
+  }
+}
+
+.hero-card { 
+  img {
+  width: 30%;
+  
+
+
+}
+   
+   box-shadow: 0.2rem 0.2rem 1rem #000;
+  
+   text-align: center;
+   background-color: #fff;
+   
+   font-size: 1.2rem;
+   width: 80%;
+   margin: 0.8rem auto;
+   border-radius: 2rem;
+   border-collapse: collapse;
+
+   margin: 1rem auto;
+   text-align: center;
+   padding: 5rem;
+.container{
+  background-color:#d3d3d3;
+ 
+
+}
+ ul {
+     list-style-type: none;
+  }
+  table {
+    font-size: 1.6rem;
+    width: 80%;
+    margin: 0.8rem auto;
+    border-radius: 1rem;
+    border-collapse: collapse;
+
+    th,
+    td {
+      border: 0.1rem solid black;
+      padding: 0.1rem;
+    }
+  }
+  .stats-grid {
+    display: flex;
+    flex: 1 0 80%;
+    font-size: 1.2rem;
+    .stat-name {
+      font-weight: bold;
+    }
+
+    .powerstats {
+      width: 45%;
+    }
+
+    .other-stats {
+      width: 45%;
+      text-align: justify;
+    }
+  }
+
+}
