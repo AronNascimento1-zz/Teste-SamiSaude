@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Redux](https://redux.js.org/)
 - [Axios](https://www.npmjs.com/package/axios)
 
-
+_________
 🧑‍💻 Instalações e usos
 
 Clone ou faça o downlod desse repositório:
