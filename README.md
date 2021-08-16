@@ -2,7 +2,8 @@
 <h1 align="center">
   (Search Hero)
     </h1>
-
+    
+![](https://github.com/AronNascimento1/Teste-SamiSaude/blob/main/src/assets/to_readme/teste.gif)
 ![](https://github.com/AronNascimento1/Teste-SamiSaude/blob/main/src/assets/to_readme/homepageseachhero.png)
 ![](https://github.com/AronNascimento1/Teste-SamiSaude/blob/main/src/assets/to_readme/biographyhero.png)
 
