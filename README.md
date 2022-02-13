@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 _________
 🧑‍💻 Instalações e usos
 
-Clone ou faça o downlod desse repositório:
+Clone ou faça o download desse repositório:
 
 ```
 # Clone o repositório
